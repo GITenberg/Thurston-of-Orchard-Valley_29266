@@ -1,0 +1,37 @@
+_repo: Thurston-of-Orchard-Valley_29266
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dunton, W. Herbert
+    alias: Dunton, Herbert
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '7987'
+    url: http://www.gutenberg.org/2009/agents/7987
+covers:
+- cover_type: archival
+  image_path: 29266-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: ''
+gutenberg_issued: '2009-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Engineers -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Northwest, Canadian -- Fiction'
+title: Thurston of Orchard Valley
+url: http://www.gutenberg.org/ebooks/29266
